@@ -1,0 +1,63 @@
+.topnav{
+    background-color:#4886bb;
+}
+.topnav ul{
+    display: flex;
+    list-style-type: none;
+}
+h3{
+    text-align: center;
+}
+#topnav2{
+    list-style-type: none;
+    display: inline-flex;
+    position: relative;
+}
+.topnav2 li a{
+    color:black;
+    padding: 10px;
+}
+button{
+    background-color:#4886bb;
+}
+.footer{
+    background-color:#4886bb;
+}
+.banner{
+    margin-top:45px;
+}
+#cups{
+    display: flex;
+    list-style-type: none; 
+    margin-left: 50px;
+    margin-top: 29px;
+}
+#cups li a{
+    padding:15px;
+}
+.container14{
+    position: relative;
+    left: 1100px;
+    margin-top: 39px;
+}
+#cups ul li a{
+    margin-right:3px;
+}
+#block21{
+    margin-left:-252px;
+}
+#block22{
+    margin-left:-207px;
+    margin-top:-50px;
+}
+#block23{
+    margin-left:-163px;
+    margin-top:-45px;
+}
+#block24{
+    margin-left: -118px;
+    margin-top:-45px;
+}
+#login{
+    margin-right:-10px;
+}

@@ -1,0 +1,54 @@
+.topnav{
+    background-color:#4886bb;
+}
+.topnav ul{
+    display: flex;
+    list-style-type: none;
+}
+#topnav2{
+    list-style-type: none;
+    display: inline-flex;
+    position: relative;
+}
+.topnav2 li a{
+    color:black;
+    padding: 10px;
+}
+#cups{
+    display: flex;
+    list-style-type: none; 
+    margin-left: 50px;
+    margin-top: 29px;
+}
+#cups li a{
+    padding:15px;
+}
+.container14{
+    position: relative;
+    left: 1100px;
+    margin-top: 39px;
+}
+.banner{
+    margin-top: 40px;
+}
+.footer{
+    background-color:#4886bb;
+    margin-top: 50px;
+}
+#fab{
+    list-style-type: none;
+    display: flex;
+}
+#fab ul li{}
+
+#block22{
+    margin-top:-50px;
+}
+#block23{
+    margin-left:93px;
+    margin-top:-45px;
+}
+#block24{
+    margin-left:140px;
+    margin-top:-45px;
+}
